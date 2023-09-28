@@ -1,0 +1,10 @@
+.card:hover {
+    box-shadow: 0 8px 16px 0 wheat;
+    transform: scale(1.1);
+
+  }
+  .card:hover .container{
+    /* background-color: #333; */
+    color: #fff;
+    transition: all 0.3s ease;
+  }
